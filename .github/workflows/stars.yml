@@ -1,5 +1,5 @@
 # This workflow builds a list of your starred repositories
-name: Stargazer
+name: Stars
 
 on:
   schedule:
