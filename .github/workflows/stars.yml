@@ -3,7 +3,7 @@ name: Stars
 
 on:
   schedule:
-    - cron: '42 2 * * *'
+  #  - cron: '42 2 * * *'
 
   workflow_dispatch:
 
